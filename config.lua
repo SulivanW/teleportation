@@ -14,8 +14,5 @@ redirection.functionloc = {
 			['z'] = 81.89,
 			['Quitter'] = '~r~[V ←]~s~ ~h~~r~Quitter' 
 		}
-	}
-	---Pensez à mettrent la "," après la dernière }
+	}---Pensez à mettrent la "," après la dernière }
 }
-
-
